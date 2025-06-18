@@ -7,3 +7,5 @@ The equivalence class of this law is the third-largest one (112 laws in our list
 Such magmas are in one-to-one correspondence with sets equipped with an involution.
 
 The free magma on some set `S` of generators for this law consists of two copies of `S` mapped to each other by the involution.
+
+The number of magmas of size n (up to isomorphism) satisfying this law is the n-th Fibonacci number.
